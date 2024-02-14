@@ -1,0 +1,1 @@
+This is a Random Gif Generator App based on React-JS.
